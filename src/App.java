@@ -146,9 +146,9 @@ class OnlineTestBegin extends JFrame implements ActionListener {
     void set() {
         jb[4].setSelected(true);
         if (current == 0) {
-            l.setText("Que1: Who is known as father of java programming language?");
-            jb[0].setText("charles Babbage");
-            jb[1].setText("James Gosling");
+            l.setText("Que1: Who is the Pime Minister of India?");
+            jb[0].setText("Dr.Manmohan singh");
+            jb[1].setText("Narendra Modi");
             jb[2].setText("M.P.Java");
             jb[3].setText("Blais Pascal");
         }
